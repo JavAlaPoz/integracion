@@ -1,0 +1,11 @@
+C:\Users\javier.alamo\Documents\_Cursos_\Curso MVP\Módulo 1\Descargas\Lab.020-Preparando un entorno con Visual Studio y .Net\VisualStudioNet\bin\Debug\net7.0\VisualStudioNet.deps.json
+C:\Users\javier.alamo\Documents\_Cursos_\Curso MVP\Módulo 1\Descargas\Lab.020-Preparando un entorno con Visual Studio y .Net\VisualStudioNet\bin\Debug\net7.0\VisualStudioNet.dll
+C:\Users\javier.alamo\Documents\_Cursos_\Curso MVP\Módulo 1\Descargas\Lab.020-Preparando un entorno con Visual Studio y .Net\VisualStudioNet\bin\Debug\net7.0\VisualStudioNet.pdb
+C:\Users\javier.alamo\Documents\_Cursos_\Curso MVP\Módulo 1\Descargas\Lab.020-Preparando un entorno con Visual Studio y .Net\VisualStudioNet\obj\Debug\net7.0\VisualStudioNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\javier.alamo\Documents\_Cursos_\Curso MVP\Módulo 1\Descargas\Lab.020-Preparando un entorno con Visual Studio y .Net\VisualStudioNet\obj\Debug\net7.0\VisualStudioNet.AssemblyInfoInputs.cache
+C:\Users\javier.alamo\Documents\_Cursos_\Curso MVP\Módulo 1\Descargas\Lab.020-Preparando un entorno con Visual Studio y .Net\VisualStudioNet\obj\Debug\net7.0\VisualStudioNet.AssemblyInfo.cs
+C:\Users\javier.alamo\Documents\_Cursos_\Curso MVP\Módulo 1\Descargas\Lab.020-Preparando un entorno con Visual Studio y .Net\VisualStudioNet\obj\Debug\net7.0\VisualStudioNet.csproj.CoreCompileInputs.cache
+C:\Users\javier.alamo\Documents\_Cursos_\Curso MVP\Módulo 1\Descargas\Lab.020-Preparando un entorno con Visual Studio y .Net\VisualStudioNet\obj\Debug\net7.0\VisualStudioNet.dll
+C:\Users\javier.alamo\Documents\_Cursos_\Curso MVP\Módulo 1\Descargas\Lab.020-Preparando un entorno con Visual Studio y .Net\VisualStudioNet\obj\Debug\net7.0\refint\VisualStudioNet.dll
+C:\Users\javier.alamo\Documents\_Cursos_\Curso MVP\Módulo 1\Descargas\Lab.020-Preparando un entorno con Visual Studio y .Net\VisualStudioNet\obj\Debug\net7.0\VisualStudioNet.pdb
+C:\Users\javier.alamo\Documents\_Cursos_\Curso MVP\Módulo 1\Descargas\Lab.020-Preparando un entorno con Visual Studio y .Net\VisualStudioNet\obj\Debug\net7.0\ref\VisualStudioNet.dll

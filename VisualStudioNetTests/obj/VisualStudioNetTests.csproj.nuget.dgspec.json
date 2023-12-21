@@ -1,0 +1,140 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\javier.alamo\\Documents\\_Cursos_\\Curso MVP\\Módulo 1\\Descargas\\Lab.020-Preparando un entorno con Visual Studio y .Net\\VisualStudioNetTests\\VisualStudioNetTests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\javier.alamo\\Documents\\_Cursos_\\Curso MVP\\Módulo 1\\Descargas\\Lab.020-Preparando un entorno con Visual Studio y .Net\\VisualStudioNetTests\\VisualStudioNetTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\javier.alamo\\Documents\\_Cursos_\\Curso MVP\\Módulo 1\\Descargas\\Lab.020-Preparando un entorno con Visual Studio y .Net\\VisualStudioNetTests\\VisualStudioNetTests.csproj",
+        "projectName": "VisualStudioNetTests",
+        "projectPath": "C:\\Users\\javier.alamo\\Documents\\_Cursos_\\Curso MVP\\Módulo 1\\Descargas\\Lab.020-Preparando un entorno con Visual Studio y .Net\\VisualStudioNetTests\\VisualStudioNetTests.csproj",
+        "packagesPath": "C:\\Users\\javier.alamo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\javier.alamo\\Documents\\_Cursos_\\Curso MVP\\Módulo 1\\Descargas\\Lab.020-Preparando un entorno con Visual Studio y .Net\\VisualStudioNetTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\javier.alamo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\javier.alamo\\Documents\\_Cursos_\\Curso MVP\\Módulo 1\\Descargas\\Lab.020-Preparando un entorno con Visual Studio y .Net\\VisualStudioNet\\VisualStudioNet.csproj": {
+                "projectPath": "C:\\Users\\javier.alamo\\Documents\\_Cursos_\\Curso MVP\\Módulo 1\\Descargas\\Lab.020-Preparando un entorno con Visual Studio y .Net\\VisualStudioNet\\VisualStudioNet.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.11.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\javier.alamo\\Documents\\_Cursos_\\Curso MVP\\Módulo 1\\Descargas\\Lab.020-Preparando un entorno con Visual Studio y .Net\\VisualStudioNet\\VisualStudioNet.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\javier.alamo\\Documents\\_Cursos_\\Curso MVP\\Módulo 1\\Descargas\\Lab.020-Preparando un entorno con Visual Studio y .Net\\VisualStudioNet\\VisualStudioNet.csproj",
+        "projectName": "VisualStudioNet",
+        "projectPath": "C:\\Users\\javier.alamo\\Documents\\_Cursos_\\Curso MVP\\Módulo 1\\Descargas\\Lab.020-Preparando un entorno con Visual Studio y .Net\\VisualStudioNet\\VisualStudioNet.csproj",
+        "packagesPath": "C:\\Users\\javier.alamo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\javier.alamo\\Documents\\_Cursos_\\Curso MVP\\Módulo 1\\Descargas\\Lab.020-Preparando un entorno con Visual Studio y .Net\\VisualStudioNet\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\javier.alamo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
